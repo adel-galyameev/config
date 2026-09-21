@@ -1,3 +1,4 @@
 spring:
   application:
     name: test
+redis: 'redis true'
